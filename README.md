@@ -1,8 +1,8 @@
-This will simply update a  wordpress site with the latest version.
+This will simply update a wordpress site to the latest version.
 
 ## How to Use
 
-`cd` to this repo and the execute `./update-wp.sh ../my-website/`.
+`cd` to this repo and then execute `./update-wp.sh ../my-website/`.
 
 By default the script will ignore:
 
